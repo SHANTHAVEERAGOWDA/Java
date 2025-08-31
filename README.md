@@ -1,3 +1,2 @@
 # Java
-Mini proj
-gaming in java
+Rock-Paper-Scissor game
